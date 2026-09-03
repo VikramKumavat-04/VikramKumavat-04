@@ -103,7 +103,7 @@ Admin          → full control: users, revenue, inventory, analytics
 > *More than short links — a campaign management tool*
 
 [![Live](https://img.shields.io/badge/LIVE-url--hub.onrender.com-46E3B7?style=flat-square&logo=render&logoColor=black)](https://url-hub.onrender.com)
-[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VikramKumavat-04/urlhub)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VikramKumavat-04/URL-Hub)
 
 - Password-protect links · Expiry dates · Enable/disable without deleting
 - Per-link analytics: device, browser, platform, referrer
